@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1480356874 source:/home/gh0st/Desktop/lab7new/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480581046 source:/home/gh0st/Desktop/Data Sruct 2/lab7new/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"airport.h"
+
+1480662403 source:/home/gh0st/Desktop/Data Sruct 2/lab7new/airport.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"airport.h"
+	"graph.h"
+
+1480618525 /home/gh0st/Desktop/Data Sruct 2/lab7new/airport.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480503374 /home/gh0st/Desktop/Data Sruct 2/lab7new/airport.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"airport.h"
+
+1480663954 source:/home/gh0st/Desktop/Data Sruct 2/lab7new/graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+
+1480660150 /home/gh0st/Desktop/Data Sruct 2/lab7new/graph.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
